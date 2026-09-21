@@ -26,23 +26,39 @@
 
 ## 🧭 About Me
 
-```yaml
-name:            Sathiyamoorthi S
-role:            Computer Science & Engineering Undergraduate
-institution:     VSB College of Engineering, Coimbatore
-program:         B.E. CSE  ·  2024 – 2028
-cgpa:            8.638 / 10  (through 4th Semester)
-focus:           Software Development · Data Analytics · Applied AI/ML · IoT
-currently:       Exploring Generative AI, Deep Learning & Agentic Systems
-practicing_on:   LeetCode → Sathiyamoorthi2305
-open_to:         Internships · Collaborative Projects · Freelance Work
-```
+Computer Science & Engineering undergraduate at VSB College of Engineering, Coimbatore, with a
+**8.63 CGPA** and a working focus on **applied machine learning, data analytics, and IoT
+systems**. My strongest work sits where these intersect — using ML to secure IoT
+infrastructure, and building closed-loop hardware systems that report back to software in real
+time. I've deployed a production fraud-detection platform end-to-end, from model to a live,
+public-facing service.
 
-- 🎯 Building toward a software/AI engineering role — products that solve real, measurable problems
-- 🧩 Comfortable across the stack: sensor → server, raw data → a decision someone can act on
-- 🔐 Current depth area: applied ML for security — IoT anomaly detection & multi-stage fraud/scam detection
-- 📊 Also active in: data analytics & BI tooling, and closed-loop IoT systems
-- 🌱 Learning now: Generative AI, Deep Learning fundamentals, agentic system design
+<table width="100%">
+<tr>
+<td width="30%"><b>🎓 Education</b></td>
+<td>B.E. Computer Science & Engineering, VSB College of Engineering, Coimbatore — 2024 to 2028</td>
+</tr>
+<tr>
+<td><b>🎯 Core Focus</b></td>
+<td>Software Development · Applied AI/ML · Data Analytics · IoT Systems</td>
+</tr>
+<tr>
+<td><b>🔐 Specializing In</b></td>
+<td>Applied ML for security — IoT anomaly detection and multi-stage fraud/scam detection</td>
+</tr>
+<tr>
+<td><b>🌱 Currently Learning</b></td>
+<td>Generative AI, Deep Learning fundamentals, and agentic system design</td>
+</tr>
+<tr>
+<td><b>📈 Practicing On</b></td>
+<td><a href="https://leetcode.com/Sathiyamoorthi2305">LeetCode — Sathiyamoorthi2305</a></td>
+</tr>
+<tr>
+<td><b>💼 Open To</b></td>
+<td>Internships · Collaborative Projects · Freelance Work</td>
+</tr>
+</table>
 
 <br/>
 
@@ -59,6 +75,48 @@ open_to:         Internships · Collaborative Projects · Freelance Work
 `Machine Learning` &nbsp;·&nbsp; `scikit-learn` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `Power BI` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `Knowledge Graphs` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `ESP32` &nbsp;·&nbsp; `Render`
 
 </div>
+
+<br/>
+
+### 📈 Proficiency
+
+<!--
+  Self-rated, not derived from data — adjust the numbers (0-100) to reflect
+  your own honest assessment before publishing. A skill bar you can't back
+  up in an interview does more harm than no skill bar at all.
+-->
+
+**Python** &nbsp;`████████████████░░░░`&nbsp; 80%
+![](https://progress-bar.dev/80/?title=&width=400&color=6366F1)
+
+**Java** &nbsp;`██████████████░░░░░░`&nbsp; 70%
+![](https://progress-bar.dev/70/?title=&width=400&color=ED8B00)
+
+**Machine Learning / scikit-learn** &nbsp;`████████████░░░░░░░░`&nbsp; 60%
+![](https://progress-bar.dev/60/?title=&width=400&color=F7931E)
+
+**SQL / Databases** &nbsp;`██████████████░░░░░░`&nbsp; 70%
+![](https://progress-bar.dev/70/?title=&width=400&color=4479A1)
+
+**IoT / Embedded (Arduino, ESP32)** &nbsp;`██████████████████░░`&nbsp; 75%
+![](https://progress-bar.dev/75/?title=&width=400&color=00979D)
+
+**Power BI / Data Visualization** &nbsp;`████████████░░░░░░░░`&nbsp; 60%
+![](https://progress-bar.dev/60/?title=&width=400&color=F2C811)
+
+<br/>
+
+## 🗺️ Journey So Far
+
+<table>
+<tr><td width="90" align="center"><b>2024</b></td><td>🎓 Started B.E. Computer Science & Engineering at VSB College of Engineering, Coimbatore</td></tr>
+<tr><td align="center"><b>2025</b></td><td>🔌 Built first hardware-to-software pipeline — the Smart Pet Feeder (Arduino, ESP32, sensor fusion)</td></tr>
+<tr><td align="center"><b>2025</b></td><td>📊 Completed Data Analytics (Novi Tech) & Data Science (Corizo) internships; earned NPTEL certifications in Python & Cloud Computing</td></tr>
+<tr><td align="center"><b>2026</b></td><td>🧠 Shipped first applied-ML security project — IoT anomaly detection with a Random Forest classifier</td></tr>
+<tr><td align="center"><b>2026</b></td><td>💊 Designed PolyPharm-Twin — a knowledge-graph model of multi-drug metabolic interaction</td></tr>
+<tr><td align="center"><b>2026</b></td><td>🕵️ Deployed ScamChain AI — a multi-stage fraud/scam early-warning platform, <a href="https://multi-stage-cyber-fraud-early-warning.onrender.com">live on Render</a></td></tr>
+<tr><td align="center"><b>Next</b></td><td>🚀 Targeting a software/AI internship — open to opportunities now</td></tr>
+</table>
 
 <br/>
 
@@ -174,7 +232,18 @@ Closed-loop IoT device — ultrasonic sensing for hopper level, load-cell feedba
 
 </div>
 
-> 🐍 **Optional upgrade:** add a [Snake Contribution animation](https://github.com/Platane/snk) via GitHub Actions — it renders your commit graph as an animated snake eating your contribution squares, refreshed automatically on a schedule. A nice, genuinely "advanced" touch if you want one more visual on the profile.
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathi2305/sathi2305/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/sathi2305/sathi2305/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+</div>
+
+> This animates once the workflow below runs — see **Setup: Snake Animation** at the bottom of this message.
 
 <br/>
 
