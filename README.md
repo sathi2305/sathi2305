@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathiyamoorthi+S;Computer+Science+%26+Engineering+Undergraduate;Building+at+the+edge+of+Software%2C+Data+%26+IoT;Currently+diving+into+GenAI+%26+Agentic+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathiyamoorthi+S;Computer+Science+%26+Engineering+Undergraduate;Building+at+the+edge+of+Software%2C+Data+%26+IoT;Currently+diving+into+GenAI+%26+Agentic+Systems" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,12 +26,14 @@
 
 ## 🧭 About Me
 
-Computer Science & Engineering undergraduate at VSB College of Engineering, Coimbatore, with a
-**8.63 CGPA** and a working focus on **applied machine learning, data analytics, and IoT
-systems**. My strongest work sits where these intersect — using ML to secure IoT
-infrastructure, and building closed-loop hardware systems that report back to software in real
-time. I've deployed a production fraud-detection platform end-to-end, from model to a live,
-public-facing service.
+> **Computer Science & Engineering undergraduate** at **VSB College of Engineering, Coimbatore**,
+> with a **8.63 CGPA** and a working focus on **Applied Machine Learning**, **Data Analytics**,
+> and **IoT Systems**.
+>
+> **My strongest work sits where these intersect** — using ML to secure IoT infrastructure, and
+> building closed-loop hardware systems that report back to software in real time. I've deployed
+> a **production fraud-detection platform end-to-end**, from model to a live, public-facing
+> service.
 
 <table width="100%">
 <tr>
@@ -66,6 +68,10 @@ public-facing service.
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1400&pause=400&color=A855F7&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Java;Python;C%2B%2B;HTML+%26+CSS;JavaScript;SQL+%2F+NoSQL;scikit-learn;Flask;Power+BI;Arduino+%2F+ESP32;Git+%26+GitHub" alt="Tech stack typing" />
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,mongodb,git,github,vscode,eclipse,arduino,raspberrypi&theme=dark" />
 
 </div>
@@ -86,23 +92,27 @@ public-facing service.
   up in an interview does more harm than no skill bar at all.
 -->
 
-**Python** &nbsp;`████████████████░░░░`&nbsp; 80%
-![](https://progress-bar.dev/80/?title=&width=400&color=6366F1)
+<div align="center">
 
-**Java** &nbsp;`██████████████░░░░░░`&nbsp; 70%
-![](https://progress-bar.dev/70/?title=&width=400&color=ED8B00)
+**Python**
+![](https://progress-bar.dev/80/?title=&width=500&color=6366F1&suffix=%20%C2%B7%2080%25)
 
-**Machine Learning / scikit-learn** &nbsp;`████████████░░░░░░░░`&nbsp; 60%
-![](https://progress-bar.dev/60/?title=&width=400&color=F7931E)
+**Java**
+![](https://progress-bar.dev/70/?title=&width=500&color=7C6AF2&suffix=%20%C2%B7%2070%25)
 
-**SQL / Databases** &nbsp;`██████████████░░░░░░`&nbsp; 70%
-![](https://progress-bar.dev/70/?title=&width=400&color=4479A1)
+**Machine Learning / scikit-learn**
+![](https://progress-bar.dev/60/?title=&width=500&color=8B5CF6&suffix=%20%C2%B7%2060%25)
 
-**IoT / Embedded (Arduino, ESP32)** &nbsp;`██████████████████░░`&nbsp; 75%
-![](https://progress-bar.dev/75/?title=&width=400&color=00979D)
+**SQL / Databases**
+![](https://progress-bar.dev/70/?title=&width=500&color=A855F7&suffix=%20%C2%B7%2070%25)
 
-**Power BI / Data Visualization** &nbsp;`████████████░░░░░░░░`&nbsp; 60%
-![](https://progress-bar.dev/60/?title=&width=400&color=F2C811)
+**IoT / Embedded (Arduino, ESP32)**
+![](https://progress-bar.dev/75/?title=&width=500&color=C084FC&suffix=%20%C2%B7%2075%25)
+
+**Power BI / Data Visualization**
+![](https://progress-bar.dev/60/?title=&width=500&color=D8B4FE&suffix=%20%C2%B7%2060%25)
+
+</div>
 
 <br/>
 
